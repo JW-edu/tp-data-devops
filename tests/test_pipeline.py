@@ -1,8 +1,8 @@
 import pandas as pd
- 
-from pipeline import agreger_par_ville, agreger_par_categorie, transformer
- 
- 
+
+from pipeline import agreger_par_categorie, agreger_par_ville, transformer
+
+
 def donnees_exemple():
     return pd.DataFrame({
         "quantite": [2, 2, None, -1, 3],

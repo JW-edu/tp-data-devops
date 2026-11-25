@@ -1,5 +1,5 @@
 # tp-data-devops
-TP MDW290
+TP MDW290 walczak jonathan
 
 # Pipeline de données Bureau&Co
 
