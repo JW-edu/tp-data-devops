@@ -38,4 +38,3 @@ def test_agregation_par_categorie():
     assert resultat.iloc[0]["montant"] == 60.0
     assert resultat.iloc[1]["categorie"] == "Informatique"
     assert resultat.iloc[1]["montant"] == 20.0
-  
